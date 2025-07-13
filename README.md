@@ -1,8 +1,5 @@
 # Operating Systems Project - Ferry Simulation
 
-## Team Members
-- Student No: 210315017, Name: Zeki AKGÜL
-- Student No: 210315047, Name: Gökay ŞAHİN
 
 ## Project Description
 This project simulates a ferry system operating between two sides of a city. The system includes vehicles (cars, minibuses, and trucks) that need to cross between the two sides using a ferry with limited capacity.
